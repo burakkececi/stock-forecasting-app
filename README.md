@@ -14,8 +14,8 @@ visualizing and forecasting stocks.
 
 ## Stock-Forecasting-App
 
-![alt text](https://github.com/burakkececi/stock-forecasting-app/tree/main/images/1.png)
-![alt text](https://github.com/burakkececi/stock-forecasting-app/tree/main/images/2.png)
+![alt text](https://github.com/burakkececi/stock-forecasting-app/tree/main/images/1.png?raw=true)
+![alt text](https://github.com/burakkececi/stock-forecasting-app/tree/main/images/2.png?raw=true)
 
 
 ## To start the project
