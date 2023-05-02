@@ -14,9 +14,12 @@ visualizing and forecasting stocks.
 
 ## Stock-Forecasting-App
 
+![alt text](images/3.png)
+<br/><hr/><br/>
 ![alt text](images/1.png)
+<br/><hr/><br/>
 ![alt text](images/2.png)
-
+<br/><hr/><br/>
 
 ## To start the project
 The program runs at default port which is https://localhost:8050
