@@ -14,8 +14,8 @@ visualizing and forecasting stocks.
 
 ## Stock-Forecasting-App
 
-![alt text](images/[branch]/1.jpg?raw=true)
-![alt text](images/[branch]/2.jpg?raw=true)
+![alt text](images/main/1.jpg?raw=true)
+![alt text](images/main/2.jpg?raw=true)
 
 
 ## To start the project
